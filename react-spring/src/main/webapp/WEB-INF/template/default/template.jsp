@@ -9,6 +9,7 @@
         <script type="text/javascript" src='<c:url value="/resources/react/react.development.js" />'></script>
         <script type="text/javascript" src='<c:url value="/resources/react-dom/react-dom.development.js" />'></script>
         <script type="text/javascript" src='<c:url value="/resources/jquery/jquery.min.js" />'></script>
+        <script type="text/javascript" src='<c:url value="/resources/js/react-spring.js"/>'></script>
         <title><tiles:insertAttribute name="title" /></title>
     </head>
     <body>

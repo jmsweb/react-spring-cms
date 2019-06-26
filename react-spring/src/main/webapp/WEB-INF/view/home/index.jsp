@@ -1,6 +1,6 @@
 <%@ taglib uri="http://tiles.apache.org/tags-tiles" prefix="tiles" %>
 <tiles:insertDefinition name="defaultTemplate">
-	<tiles:putAttribute name="title" value="JMS - Web Based Calculator" />
+	<tiles:putAttribute name="title" value="JMS - React + Spring Web Calculator" />
 	<tiles:putAttribute name="body">
 		<div id="calculator-container">
 			<table id="calculator-table">

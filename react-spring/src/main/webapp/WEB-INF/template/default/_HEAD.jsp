@@ -1,3 +1,3 @@
 <div class="header">
-	<p>JMS - Web Calculator</p>
+    <p>React + Spring Web Calculator</p>
 </div>
