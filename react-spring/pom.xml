@@ -79,7 +79,7 @@
     </dependencies>
 
     <build>
-        <finalName>web-calculator</finalName>
+        <finalName>react-spring</finalName>
         <plugins>
             <!-- compiler plugin -->
             <plugin>
